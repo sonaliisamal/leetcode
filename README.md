@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0011-container-with-most-water](https://github.com/sonaliisamal/leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sonaliisamal/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sonaliisamal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0414-third-maximum-number](https://github.com/sonaliisamal/leetcode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/sonaliisamal/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonaliisamal/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sonaliisamal/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sonaliisamal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## String
 |  |
 | ------- |
@@ -44,5 +46,10 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sonaliisamal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sonaliisamal/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sonaliisamal/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
