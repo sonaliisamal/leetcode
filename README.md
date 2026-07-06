@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sonaliisamal/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sonaliisamal/leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/sonaliisamal/leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonaliisamal/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sonaliisamal/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/sonaliisamal/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sonaliisamal/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sonaliisamal/leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sonaliisamal/leetcode/tree/master/0392-is-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sonaliisamal/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sonaliisamal/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/sonaliisamal/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sonaliisamal/leetcode/tree/master/0242-valid-anagram) |
 ## Design
 |  |
 | ------- |
